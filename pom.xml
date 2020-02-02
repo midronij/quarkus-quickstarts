@@ -12,8 +12,10 @@
         <module>amqp-quickstart</module>
         <module>cache-quickstart</module>
         <module>config-quickstart</module>
+	<module>configquickstart</module>
         <module>dynamodb-quickstart</module>
         <module>getting-started</module>
+	<module>gettingstarted</module>
         <module>getting-started-async</module>
         <module>getting-started-knative</module>
         <module>getting-started-testing</module>
